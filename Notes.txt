@@ -1,1 +1,4 @@
-Golang order API
+Golang order API :
+- Create server 
+- Add routing (gorilla/mux and chi)
+
